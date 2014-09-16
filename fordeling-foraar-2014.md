@@ -1,7 +1,7 @@
 ### Fordeling af PROSA Puljen foråret 2014
 
-[ ] = _ikke_ udbetalt
-[x] = udbetalt
+- [ ] = _ikke_ udbetalt
+- [x] = udbetalt
 
 #### DIKUrevy:
 - [x] 6.000 kr. til videokamera (ansøgt 8.000 kr.)
