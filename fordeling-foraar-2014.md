@@ -23,7 +23,7 @@ Note: RKG valgte at bruge 2.397 kr. på grill og få Nicer Dicer Plus sponsorere
 et andet sted fra.
 
 #### FC Sparc:
-- [ ] 908 kr. til diverse fodboldudstyr (ansøgt 908 kr.)
+- [x] 908 kr. (brugt 902,20 kr.) til diverse fodboldudstyr (ansøgt 908 kr.)
 
 #### Pwnies:
 - [ ] 80 kr. til RFID-chips (ansøgt 1.030 kr.)
