@@ -30,6 +30,9 @@ et andet sted fra.
 
 #### DQBrew:
 - [ ] 5.000 kr. til ølbrygningsudstyr og diverse projekter (ansøgt 7.444 kr.)
+  - [x] -2.739 kr. til diverse til ølbrygning
+  - [x] -556 kr. til hylder
+  - [ ] 1705 kr. tilbage
 
 #### dikumail.dk:
 - [x] 1.200 kr til at vedligeholde mailinglister i et år (ansøgt 1.200 kr.)
