@@ -39,4 +39,4 @@ et andet sted fra.
 - [x] 1.200 kr til at vedligeholde mailinglister i et år (ansøgt 1.200 kr.)
 
 #### DICON:
-- [ ] 600 kr. til brætspils-morgenmad (ansøgt 900 kr.)
+- [x] 600 kr. til brætspils-morgenmad (ansøgt 900 kr.)
