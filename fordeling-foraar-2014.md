@@ -5,7 +5,7 @@
 
 #### DIKUrevy:
 - [x] 6.000 kr. til videokamera (ansøgt 8.000 kr.)
-- [ ] 9.662 kr. til nye lamper (ansøgt 17.285 kr.)
+- [x] 9.662 kr. til nye lamper (ansøgt 17.285 kr.)
 
 #### Kantineforeningen:
 - [x] 3.000 kr. (brugt 1.931,25 kr.) til en ny Hygge-PC (ansøgt 3.000 kr.)
