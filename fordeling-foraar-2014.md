@@ -33,7 +33,8 @@ et andet sted fra.
   - [x] -2.739 kr. til diverse til ølbrygning
   - [x] -556 kr. til hylder
   - [x] -502,66 kr. til Beaglebone Black
-  - [ ] 1202,34 kr. tilbage
+  - [x] -282 kr. til told af Beaglebone Black pakke
+  - [ ] 920,34 kr. tilbage
 
 #### dikumail.dk:
 - [x] 1.200 kr til at vedligeholde mailinglister i et år (ansøgt 1.200 kr.)
