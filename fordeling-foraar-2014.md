@@ -29,12 +29,12 @@ et andet sted fra.
 - [ ] 80 kr. til RFID-chips (ansøgt 1.030 kr.)
 
 #### DQBrew:
-- [ ] 5.000 kr. til ølbrygningsudstyr og diverse projekter (ansøgt 7.444 kr.)
+- [x] 5.000 kr. til ølbrygningsudstyr og diverse projekter (ansøgt 7.444 kr.)
   - [x] -2.739 kr. til diverse til ølbrygning
   - [x] -556 kr. til hylder
   - [x] -502,66 kr. til Beaglebone Black
   - [x] -282 kr. til told af Beaglebone Black pakke
-  - [ ] 920,34 kr. tilbage
+  - [x] 920,34 kr. tilbage
 
 #### dikumail.dk:
 - [x] 1.200 kr til at vedligeholde mailinglister i et år (ansøgt 1.200 kr.)
