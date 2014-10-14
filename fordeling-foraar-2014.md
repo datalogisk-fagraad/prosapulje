@@ -9,7 +9,7 @@
 
 #### Kantineforeningen:
 - [x] 3.000 kr. (brugt 1.931,25 kr.) til en ny Hygge-PC (ansøgt 3.000 kr.)
-- [ ] 2.300 kr. til projektorophæng m.m. til hyggehjørnet (ansøgt 2.300 kr.)
+- [x] 2.300 kr. til projektorophæng m.m. til hyggehjørnet (ansøgt 2.300 kr.)
 
 #### FUT:
 - [x] 5.000 kr. til tilskud til transport/leje af hytter (ansøgt 7.000kr)
@@ -26,7 +26,7 @@ et andet sted fra.
 - [x] 908 kr. (brugt 902,20 kr.) til diverse fodboldudstyr (ansøgt 908 kr.)
 
 #### Pwnies:
-- [ ] 80 kr. til RFID-chips (ansøgt 1.030 kr.)
+- [x] 80 kr. til RFID-chips (ansøgt 1.030 kr.)
 
 #### DQBrew:
 - [x] 5.000 kr. til ølbrygningsudstyr og diverse projekter (ansøgt 7.444 kr.)
